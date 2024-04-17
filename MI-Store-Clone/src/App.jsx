@@ -50,6 +50,8 @@ function App() {
           <Route path="/smartDevice" element={<HotAccessories type="smartDevice" />} />
     </Routes> */}
 
+        
+        
        
         
       </Router>
